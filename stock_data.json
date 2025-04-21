@@ -1,0 +1,107 @@
+[
+    {
+        "URL": "https://groww.in/us-stocks/nke",
+        "Company Name": "Nike Inc",
+        "Open Price": "$82.10",
+        "Prev. Close": "$81.72",
+        "Market Cap": "$120.87B"
+    },
+    {
+        "URL": "https://groww.in/us-stocks/ko",
+        "Company Name": "Coca-Cola Company The",
+        "Open Price": "$71.27",
+        "Prev. Close": "$71.49",
+        "Market Cap": "$307.47B"
+    },
+    {
+        "URL": "https://groww.in/us-stocks/msft",
+        "Company Name": "Microsoft Corporation",
+        "Open Price": "$398.01",
+        "Prev. Close": "$397.90",
+        "Market Cap": "$2.95T"
+    },
+    {
+        "URL": "https://groww.in/us-stocks/axp",
+        "Company Name": "American Express Co",
+        "Open Price": "$295.14",
+        "Prev. Close": "$293.34",
+        "Market Cap": "$206.08B"
+    },
+    {
+        "URL": "https://groww.in/us-stocks/amgn",
+        "Company Name": "Amgen Inc",
+        "Open Price": "$311.95",
+        "Prev. Close": "$315.63",
+        "Market Cap": "$169.55B"
+    },
+    {
+        "URL": "https://groww.in/us-stocks/aapl",
+        "Company Name": "Apple Inc",
+        "Open Price": "$244.33",
+        "Prev. Close": "$247.04",
+        "Market Cap": "$3.71T"
+    },
+    {
+        "URL": "https://groww.in/us-stocks/ba",
+        "Company Name": "Boeing Company The",
+        "Open Price": "$179.49",
+        "Prev. Close": "$178.27",
+        "Market Cap": "$133.71B"
+    },
+    {
+        "URL": "https://groww.in/us-stocks/csco",
+        "Company Name": "Cisco Systems Inc",
+        "Open Price": "$64.05",
+        "Prev. Close": "$64.27",
+        "Market Cap": "$255.68B"
+    },
+    {
+        "URL": "https://groww.in/us-stocks/gs",
+        "Company Name": "Goldman Sachs Group Inc The",
+        "Open Price": "$616.67",
+        "Prev. Close": "$614.91",
+        "Market Cap": "$193.02B"
+    },
+    {
+        "URL": "https://groww.in/us-stocks/ibm",
+        "Company Name": "International Business Machines Corp",
+        "Open Price": "$258.10",
+        "Prev. Close": "$257.75",
+        "Market Cap": "$239.00B"
+    },
+    {
+        "URL": "https://groww.in/us-stocks/intc",
+        "Company Name": "Intel Corporation",
+        "Open Price": "$23.25",
+        "Prev. Close": "$22.99",
+        "Market Cap": "$99.54B"
+    },
+    {
+        "URL": "https://groww.in/us-stocks/jpm",
+        "Company Name": "JPMorgan Chase & Co",
+        "Open Price": "$257.16",
+        "Prev. Close": "$257.40",
+        "Market Cap": "$719.71B"
+    },
+    {
+        "URL": "https://groww.in/us-stocks/mcd",
+        "Company Name": "McDonald's Corp",
+        "Open Price": "$311.70",
+        "Prev. Close": "$310.72",
+        "Market Cap": "$221.99B"
+    },
+    {
+        "URL": "https://groww.in/us-stocks/crm",
+        "Company Name": "Salesforcecom Inc",
+        "Open Price": "$312.66",
+        "Prev. Close": "$305.88",
+        "Market Cap": "$292.72B"
+    },
+    {
+        "URL": "https://groww.in/us-stocks/dis",
+        "Company Name": "Walt Disney Company The",
+        "Open Price": "$110.06",
+        "Prev. Close": "$110.53",
+        "Market Cap": "$199.81B"
+    }
+]
